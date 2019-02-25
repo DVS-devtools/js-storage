@@ -30,7 +30,7 @@
   "dependencies": {},
   "devDependencies": {
     "@types/jest": "^23.3.9",
-    "coveralls": "^3.0.2",
+    "coveralls": "^3.0.3",
     "cross-env": "^5.2.0",
     "css-loader": "^1.0.1",
     "file-loader": "^2.0.0",
