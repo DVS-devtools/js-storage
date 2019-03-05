@@ -1,5 +1,7 @@
 ## js-storage
 
+## [!!!] The source code of this package is on [https://github.com/docomodigital/js-utils](https://github.com/docomodigital/js-utils), this repository will be removed asap
+
 [![Build Status](https://travis-ci.com/docomodigital/js-storage.svg?branch=master)](https://travis-ci.com/docomodigital/js-storage)
 [![Coverage Status](https://coveralls.io/repos/github/docomodigital/js-storage/badge.svg?branch=master)](https://coveralls.io/github/docomodigital/js-storage?branch=master)
 [![npm version](https://badge.fury.io/js/%40docomodigital%2Fjs-storage.svg)](https://badge.fury.io/js/%40docomodigital%2Fjs-storage)
